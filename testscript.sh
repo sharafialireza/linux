@@ -3,8 +3,5 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 
-
-
-
 echo "This is an updated script"
 echo "this was run automaically"
